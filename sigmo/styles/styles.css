@@ -1,0 +1,18 @@
+body{
+    font: 18px/1,5 sans-serif;
+    color: rgb(47, 0, 255);
+}
+table,
+td{
+    border: 1px solid #000;
+}
+td{
+    padding: 10px ;
+}
+thead,
+td{
+    border: 1px solid rgb(196, 17, 17);
+}
+#cross{
+    text-align: right;
+}
